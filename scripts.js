@@ -1,6 +1,5 @@
 
 function main() {
-  // theme-switcher
   document
     .getElementById("theme-switcher")
     .addEventListener("click", function () {
